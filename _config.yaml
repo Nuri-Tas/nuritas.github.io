@@ -32,6 +32,9 @@ plugins:
 - jekyll-seo-tag # For automatically adding SEO meta tags
 - jekyll-sitemap # For generating a sitemap.xml
 
+include:
+  - public
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically
