@@ -1,0 +1,3 @@
+[submodule "notablog-starter"]
+	path = notablog-starter
+	url = https://github.com/dragonman225/notablog-starter.git
